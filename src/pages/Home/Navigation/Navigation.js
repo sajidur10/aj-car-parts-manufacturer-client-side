@@ -25,7 +25,7 @@ const Navigation = () => {
                         <div className=" collapse navbar-collapse text-md-start" id="navbarText">
                             <div className="navbar-nav me-auto mb-2 mb-lg-0">
                                 <Link className="nav-item my-nav mt-4 mt-lg-0 mb-2 mb-md-0" to="/home">Home</Link>
-                                <Link className="nav-item my-nav mb-2 mb-md-0" to="/cars">Cars</Link>
+                                <Link className="nav-item my-nav mb-2 mb-md-0" to="/cars">Parts</Link>
                                 <Link className="nav-item my-nav mb-2 mb-md-0" to="/sidebar">Dashboard</Link>
                                 <Link className="nav-item my-nav" to="/about">About</Link>
                                 <Link className="nav-item my-nav" to="/contact">Contact</Link>
