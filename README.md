@@ -8,3 +8,4 @@ A list of technologies used within the project:
 * I use react for js library.
 * I use Bootstrap for css framwork.
 * I use firebase for authentication.
+* I use vs code for coding.
