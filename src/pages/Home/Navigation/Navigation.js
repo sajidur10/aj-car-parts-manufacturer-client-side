@@ -31,7 +31,7 @@ const Navigation = () => {
                                 <Link className="nav-item my-nav" to="/contact">Contact</Link>
                                 <Link className="nav-item my-nav" to="/blogs">Blogs</Link>
 
-                                <a className="nav-item my-nav" aria-current="page" href="https://omarfaruqjibon.github.io/my-portfolio/">Portfolio</a>
+                                <a className="nav-item my-nav" aria-current="page" href="https://sajidur10.github.io/portfolio/">Portfolio</a>
 
                             </div>
 
