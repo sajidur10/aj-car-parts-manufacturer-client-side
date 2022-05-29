@@ -46,10 +46,10 @@ const Sidebar = () => {
 
                             {admin && <div>
                                 <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/pay`}><AiIcons.AiFillDollarCircle className="me-2 fs-4" />My Profile</Link>
-                                <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/addCar`}><AiIcons.AiFillCarryOut className="me-2 fs-4" /> Add Car</Link> <br />
+                                <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/addCar`}><AiIcons.AiFillCarryOut className="me-2 fs-4" /> Add Parts</Link> <br />
                                 <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/allOrders`}><AiIcons.AiFillShopping className="me-2 fs-4" />All Orders</Link> <br />
                                 <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/makeAdmin`}><AiIcons.AiFillContacts className="me-2 fs-4" />Make Admin</Link> <br />
-                                <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/manageCars`}><AiIcons.AiFillCloseCircle className="me-2 fs-4" />Manage Cars</Link> <br />
+                                <Link className="me-3 nav-text text-decoration-none fw-bold" to={`${url}/manageCars`}><AiIcons.AiFillCloseCircle className="me-2 fs-4" />Manage Parts</Link> <br />
                             </div>}
 
                             {!admin && <div>
