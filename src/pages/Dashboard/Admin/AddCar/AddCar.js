@@ -23,7 +23,7 @@ const AddCar = () => {
 
     return (
         <div className="default-text mt-5">
-            <h2 className="fw-bold">Add a new car</h2>
+            <h2 className="fw-bold">Add a new Parts</h2>
             <form className="input-form" onSubmit={handleSubmit(onSubmit)}>
                 <input {...register("title")} placeholder="Title" className="p-2 m-2 w-50" />
                 <br />
